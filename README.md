@@ -1,0 +1,4 @@
+MainActivity
+============
+
+Application major fucntionalities
